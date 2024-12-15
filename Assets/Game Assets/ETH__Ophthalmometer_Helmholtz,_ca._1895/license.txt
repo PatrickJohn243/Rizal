@@ -1,0 +1,11 @@
+Model Information:
+* title:	ETH: Ophthalmometer Helmholtz, ca. 1895
+* source:	https://sketchfab.com/3d-models/eth-ophthalmometer-helmholtz-ca-1895-0abc38fd4d8c4e608c9a41c46a45a03c
+* author:	ETH Library_Collections (https://sketchfab.com/ethlibrary)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "ETH: Ophthalmometer Helmholtz, ca. 1895" (https://sketchfab.com/3d-models/eth-ophthalmometer-helmholtz-ca-1895-0abc38fd4d8c4e608c9a41c46a45a03c) by ETH Library_Collections (https://sketchfab.com/ethlibrary) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

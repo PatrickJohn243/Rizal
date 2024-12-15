@@ -1,0 +1,11 @@
+Model Information:
+* title:	Noli Me Tangere
+* source:	https://sketchfab.com/3d-models/noli-me-tangere-88558af5a41d43efb4b38714995266dc
+* author:	ralphmromaxr (https://sketchfab.com/ralphmromaxr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Noli Me Tangere" (https://sketchfab.com/3d-models/noli-me-tangere-88558af5a41d43efb4b38714995266dc) by ralphmromaxr (https://sketchfab.com/ralphmromaxr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
