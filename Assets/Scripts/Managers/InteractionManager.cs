@@ -59,7 +59,7 @@ public class InteractionManager : MonoBehaviour
 
                 if (Input.GetKeyDown(KeyCode.E))
                 {
-                    print("interacting");
+                    //print("interacting");
                     Debug.Log(interactableObj); 
                     switch (interactable.interactableType)
                     {
