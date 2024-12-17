@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Exec1
+  m_EditorClassIdentifier: 
+  text: "Arrest, Deportation, Exile\n\n------\n\n\u201CRizal returned to the Philippines
+    on June 26, 1892, from his travels in Europe, aiming to reform Spanish rule peacefully.
+    On July 3, 1892, he founded La Liga Filipina, a civic organization for peaceful
+    reforms. However, on July 6, 1892, Governor-General Eulogio Despujol arrested
+    him, accusing him of producing anti-clerical and subversive writings, including
+    those from Noli Me Tangere and El Filibusterismo, along with alleged seditious
+    pamphlets found in his sister\u2019s luggage during a customs inspection.\u201D\n\n\n\r\n1.
+    Arrest (July 6, 1892)\n\n------\n\r\nRizal returned to the Philippines on June
+    26, 1892, from his travels in Europe, aiming to reform Spanish rule through peaceful
+    means.\n\r\nOn July 3, 1892, Rizal founded La Liga Filipina, a civic organization
+    seeking peaceful reforms.\r\nGovernor-General Eulogio Despujol arrested Rizal
+    on July 6, 1892, accusing him of producing anti-clerical and subversive writings,
+    including those associated with the Noli Me Tangere and El Filibusterismo. \n\nAlleged
+    seditious pamphlets found in his sister\u2019s luggage during a customs inspection
+    were also used against him.\r\n\r"

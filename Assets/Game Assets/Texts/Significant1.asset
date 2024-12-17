@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Significant1
+  m_EditorClassIdentifier: 
+  text: "Significant People  \n\n------\n\n\u201CRizal's early life (1861\u20131872)
+    was influenced by his father, Francisco Mercado, who taught him the values of
+    hard work and discipline, and his mother, Teodora Alonso, who was his first teacher
+    and instilled in him a love for education and literature.\u201D\r\n\n\n\nEarly
+    Life (1861\u20131872)\n\n------\n\r\nFrancisco Mercado (Father): Taught Rizal
+    values of hard work and discipline.\n\r\nTeodora Alonso (Mother): Rizal's first
+    teacher, fostering his love for education and literature.\r\n\r\r\n\r"

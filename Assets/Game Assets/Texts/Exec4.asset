@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Exec4
+  m_EditorClassIdentifier: 
+  text: "Arrest, Deportation, Exile\n\n------\n\n\u201COn July 31, 1896, Rizal received
+    permission to serve as a volunteer doctor in Cuba during a yellow fever outbreak.
+    He left Dapitan aboard the steamer Espa\xF1a.\u201D\n\n\n\r\n4. Departure from
+    Dapitan (July 31, 1896)\n\n------\n\r\nRizal received permission to serve as
+    a volunteer doctor in Cuba during a yellow fever outbreak.\r\nHe left Dapitan
+    aboard the steamer Espa\xF1a on July 31, 1896.\r\n\nRizal met Josephine Bracken,
+    who later became his companion, in Dapitan.\r\n"

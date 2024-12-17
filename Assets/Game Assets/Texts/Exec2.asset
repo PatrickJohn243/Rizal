@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Exec2
+  m_EditorClassIdentifier: 
+  text: "Arrest, Deportation, Exile\n\n------\n\n\u201CAfter a mock trial, Rizal
+    was deported to Dapitan, Zamboanga del Norte, on July 17, 1892. He spent four
+    years in exile, during which he engaged in community work, medical practice,
+    teaching, and scientific research.\u201D\n\n\n\r\n2. Deportation to Dapitan (July
+    17, 1892)\n\n------\n\r\nAfter a mock trial, Rizal was deported to Dapitan, Zamboanga
+    del Norte, on July 17, 1892.\n\r\nHe spent four years in exile, during which
+    he engaged in community work, medical practice, teaching, and scientific research.\r\n"

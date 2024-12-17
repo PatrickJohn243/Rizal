@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Exec6
+  m_EditorClassIdentifier: 
+  text: "Arrest, Deportation, Exile\n\n------\n\n\u201CIn November\u2013December
+    1896, Rizal faced a military tribunal in Manila, charged with rebellion, sedition,
+    and forming illegal associations. Despite protesting his innocence, he was convicted
+    and executed on December 30, 1896, at Bagumbayan (now Luneta), marking a tragic
+    end to his life and a significant moment in Philippine history.\u201D\n\n\n\r\n6.
+    Trial and Execution (November\u2013December 1896)\n\n------\n\r\nRizal faced
+    a military tribunal in Manila, accused of rebellion, sedition, and forming illegal
+    associations.\n\r\nDespite his protests of innocence, Rizal was convicted and
+    executed on December 30, 1896, at Bagumbayan (now Luneta).\r\n\r\n"

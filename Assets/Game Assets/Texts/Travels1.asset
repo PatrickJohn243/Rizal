@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Travels1
+  m_EditorClassIdentifier: 
+  text: "Travels \r\n\n------\n\n\u201CBetween 1882 and 1887, Jos\xE9 Rizal embarked
+    on his first trips abroad, traveling through various countries to pursue his
+    studies and broaden his knowledge. He left the Philippines on May 3, 1882, using
+    a passport under the name Jos\xE9 Mercado. His journey took him through Singapore,
+    Sri Lanka, and Egypt before setting foot in Europe, beginning with Naples, Italy,
+    and Marseilles, France, in June 1882. Rizal continued to Spain, where he pursued
+    medical studies in Madrid while learning multiple languages. Over the years,
+    he visited France, Germany, and Switzerland, where he celebrated his 26th birthday
+    in Geneva. During his time in Germany, Rizal honed his German skills, conducted
+    research in Berlin, and wrote \"To the Flowers of Heidelberg.\" His travels also
+    included Rome, Italy, where he visited historical landmarks, concluding his journey
+    enriched with cultural, intellectual, and linguistic experiences.\u201D\r\n\n\n\n1.
+    PHILIPPINES\n\n------ \n\r\nMay 3, 1882 - Rizal left the Philippines for the
+    first time\r\nHe boarded Salvadora using a passport of Jose Mercado which was
+    procured for him by his uncle Antonio Rivera.His first trip abroad was bound
+    for Spain.\n\n\n\n2.SINGAPORE\n\n------\n\r\nMay 9, 1882 \u2013 the first stop
+    over of Rizal on his way to Spain.Rizal boarded the boat Djemnah to continue
+    his trip to Spain\r\n\n\n\n3.SRI LANKA\n\n------\n\r\nMay 18, 1882 \u2013 it
+    was Rizal\u2019s journey to Colombo, Sri Lanka that was important for him to
+    improve his knowledge of the French language while he was on board the French
+    ship, Djemah.\r\n\n\n\r\n4. EGYPT\n\n------\n\r\nJune 2, 1882 \u2013 he arrived
+    at the Suez Canal en route to Marseilles.\r\n\n\n\n5. ITALY\n\n------\n\r\nJune
+    11, 1882 \u2013 he arrived at the City of Naples, Italy for one hour and this
+    was the first European ground he set foot on.\r\n\n\n\n6. FRANCE\n\n------\n\r\nJune
+    12-15, 1882 \u2013 the boat anchored at Marseilles, France and he boarded at
+    the Noalles Hotel.\r\n\n\n\n7. SPAIN\n\n------\n\r\nJune 16, 1882 \u2013 Rizal
+    arrived at Barcelona, Spain and boarded in the Fonda de Espa\xF1a.\n\r\nSeptember
+    2, 1882 \u2013 He left Barcelona for Madrid to persue his medical studies in
+    the Universidad Central de Madrid, he also took courses in Philosophy and Letters
+    and took French German and English lessons from private tutors.\n\n\r\n\n8. FRANCE\n\n------\n\r\nJune
+    15, 1883 \u2013 He left Madrid for Paris, France to spend his summer vacation
+    and to observe the big French City.\n\n\n\n9. GERMANY\n\n------\n\r\nFebruary
+    3, 1883 \u2013 Rizal arrived the town of Heidelberg, Germany. Rizal was so enamored
+    with the Heidelberg flower that he wrote a beautiful poem about them, \u201CTo
+    the Flowers of Heidelberg.\u201D\r\n\r\nApril 26, 1886 \u2013 he left Heidelberg
+    for Wilhelmsfeld, Germany to honor invitation extended to him by Rev. Karl Ulmer.\n\nJune
+    20-25, 1886 \u2013 he studied the German country life and practice speaking good
+    German.\n\r\nAugust 15, 1886 \u2013 he left Wilhemsfeld for Leipzig, Germany
+    to offer no little knowledge in Tagalog to Prof. Ferdinand Blumenthal for the
+    letter\u2019s study of the language.\n\nOctober 29, 1886 \u2013 he visited the
+    Palacio Japonais and many other interesting places in Dresden, Germany.\r\n\r\nNovember
+    1, 1886 \u2013 he was admitted to the Real Bibliotheca de Berlin Capital of Spain,
+    to do some research and to read other books, and Maximo Viola joined with him.
+    He started teaching viola the German Language.\r\n\r\nMay 26-30, 1887 \u2013
+    Rizal and Viola arrived in Munich, Germany and they boarded in Rhine Hotel and
+    they drunk beers in the business establishment.\r\n\r\n\n\n10. SWITZERLAND\n\n------\n\r\nJune
+    19, 1887 \u2013 with Viola, Rizal celebrated his 26th birthday in Geneva and
+    his attitude towards revolution was manifested in his letters to Blumentritt.\n\r\nJune
+    23, 1887 \u2013 Rizal and Viola parted, Rizal going to Rome and Viola to Barcelona.\n\n\n\n11.
+    FRANCE\n\r\n------\n\nJuly 2, 1887 \u2013 he arrived in Marseilles to search
+    the bodegas of the \u201CMEROA GERIAS\u201D for the box of merchandise.\r\n\r\n\n12.
+    ITALY\r\nJune 27, 1887 \u2013 he arrived in Rome, Italy and walked around the
+    City.\n\r\nHe visited the Capitolio, the Roca Taperya, the Palatinum, the forum
+    Romanun. The Museum Capitoline (Capitolinum) and the church of Santa Maria, the
+    Manggiore\r\n"

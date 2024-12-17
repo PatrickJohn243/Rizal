@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Travels2
+  m_EditorClassIdentifier: 
+  text: "Homecomings\n\n------\n\n\u201CRizal arrived in Manila on August 5, 1887,
+    aboard the SS Hayfony after five years of study and patriotic efforts in Europe.
+    Despite warnings from his family and friends due to the controversy caused by
+    Noli Me Tangere, he was determined to return to the Philippines to operate on
+    his mother's eye, serve his oppressed countrymen, assess the impact of his writings
+    on Filipinos and Spaniards, and inquire about the silence of Leonor Rivera. Upon
+    his return, he established a medical clinic, with his first patient being his
+    mother, who was nearly blind. Known as \"Doctor Uliman\" for his studies in Germany,
+    Rizal gained a lucrative medical practice treating the local population.\u201D\n\n\n\r\n1.
+    August 5, 1887 \u2013 Rizal arrived at Manila boarded SS. Hayfony after five
+    years of study and patriotic labors in Europe.\r\n\r\n2. Because of the publication
+    of the Noli Me Tangere and the uproar it caused among the Friars, Rizal was warned
+    by his family and other friends not to return home.\n\n3. Rizal was determined
+    to return to the Philippines for the following reasons:\r\n\ta) To operate on
+    his mother\u2019s eye\r\n\tb) To serve his people who had long been \t\toppressed
+    by Spanish tyfants.\r\n\tc) To find out for him how Noli and his other \t\twritings
+    were affecting the Filipinos and \t\t\tSpaniards in the Philippines.\r\n\td)
+    To inquire why Leonor Rivera remained \t\tsilent.\n\r\n4. He established a medical
+    clinic and his first patient was his mother who almost got blind.\n\r\n5. He
+    called \u201CDoctor Uliman\u201D because he came from Germany, treated their
+    ailments and soon he acquired a lucrative medical practice.\r\n\r\n\n"

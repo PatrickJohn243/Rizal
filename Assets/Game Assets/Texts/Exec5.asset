@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Exec5
+  m_EditorClassIdentifier: 
+  text: "Arrest, Deportation, Exile\n\n------\n\n\u201COn September 3, 1896, while
+    en route to Cuba, Rizal was intercepted by Spanish authorities in Barcelona,
+    Spain, after the Philippine Revolution, led by the Katipunan, broke out on August
+    23, 1896. He was suspected of being involved in the uprising and was sent back
+    to Manila for trial.\u201D\n\n\n\r\n5. Arrest En Route to Spain (September 3,
+    1896)\n\r\n------\n\nDuring the voyage to Cuba, the Philippine Revolution led
+    by the Katipunan broke out on August 23, 1896.\n\r\nSpanish authorities intercepted
+    Rizal in Barcelona, Spain, on September 3, 1896, suspecting him of being involved
+    in the uprising.\n\r\nHe was sent back to Manila for trial.\r\n"

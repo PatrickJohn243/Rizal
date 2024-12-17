@@ -7,6 +7,7 @@ public class CanvasManager : MonoBehaviour
 {
     [Header("Canvasses")]
     [SerializeField] protected GameObject canvas;
+    [SerializeField] protected GameObject ImgCanvas;
 
     [Header("Fields")]
     public List<GameObject> EnabledCanvasList;
@@ -27,12 +28,13 @@ public class CanvasManager : MonoBehaviour
     private void Start()
     {
         UICanvas = new List<GameObject>();
-        UICanvas.Add(canvas);
+        UICanvas.Add(canvas);  
         //UICanvas.Add(consumableInventory);
         //UICanvas.Add(keyItemInventory);
         //UICanvas.Add(journal);
 
-        //PuzzleCanvas = new List<GameObject>();
+        PuzzleCanvas = new List<GameObject>();
+        PuzzleCanvas.Add(ImgCanvas);
         //PuzzleCanvas.Add(grandFathersClock);
         //PuzzleCanvas.Add(combinationLock);
         //PuzzleCanvas.Add(tvInterface);
@@ -42,6 +44,7 @@ public class CanvasManager : MonoBehaviour
         //PuzzleCanvas.Add(blueprint);
 
         DisableAllCanvas(UICanvas);
+        DisableAllCanvas(PuzzleCanvas);
     }
     private void Update()
     {
