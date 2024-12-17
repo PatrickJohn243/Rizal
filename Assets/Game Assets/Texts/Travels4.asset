@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Travels4
+  m_EditorClassIdentifier: 
+  text: "Third Trips  \n\n------\n\n\u201CIn his third trip abroad (1891-1892), Rizal
+    arrived in France on October 17, 1891, bringing with him boxes of Morga and El
+    Filibusterismo. The following day, he reached Hong Kong, aboard the Melbourne,
+    and sent 20 copies of El Fili to Manuel Camus in Singapore, offering him a 25%
+    commission on the books sold. Rizal's return to the Philippines in 1892 marked
+    the beginning of his last homecoming, which culminated in his arrest, exile,
+    and eventual execution.\u201D\r\n\n\n\n1. France\n\n------\n\r\nOctober 17, 1891
+    \u2013 Rizal arrived at Marseilles with boxes of Morga and Fili.\r\n\r\n\n\r\n2.
+    Hong Kong\n\n------\n\r\nOctober 18, 1891 \u2013 Rizal arrived Hong Kong boarded
+    the Melbourne.\n\r\nRizal sent to Manuel Camus in Singapore 20 copies of the
+    Fili and he gave Camus 25% commission for the books sold.\r\n\r\n\n\nLAST HOMECOMING
+    (1892 -1896)\n\n\r------\n\n1. June 26, 1892 \u2013 Rizal arrived in the Philippines
+    from Hong Kong boarded the boat Don Juan.\r\n\r\n2. Rizal firmly believed that
+    the fight for Filipino liberties had assumed a new phase: it must be fought in
+    the Phil. No in Spain.\n\r\n3. July 3, 1892 \u2013 Rizal founded the La Liga
+    Filipina in Calle Ilaya, Tondo.\r\n\r\n4. July 7, 1892 \u2013 Despujol released
+    his gubernatorial decree ordering the deportation of Jose Rizal to Dapitan.\n\r\n5.
+    June 15, 1892 \u2013 Rizal began his exile in lonely Dapitan for his last 4 years.\r"

@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ea2bf25cfe170a541b12a2c5a46d4e64, type: 3}
-  m_Name: TestLetter
+  m_Name: FrameObjects
   m_EditorClassIdentifier: 
   promptImage: {fileID: 0}
   interactableType: 0

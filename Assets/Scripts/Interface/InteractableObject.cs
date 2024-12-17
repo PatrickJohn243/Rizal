@@ -15,11 +15,11 @@ public class InteractableObject : MonoBehaviour, IInteractable
         {
             case 0:
                 Debug.Log("You interacted with letter!");
-                UIDisplay.EnableUI();
+                UIDisplay.EnableFrameUI();
                 break;
             case 1:
                 Debug.Log("You picked up an relic!");
-                UIDisplay.EnableUI();
+                UIDisplay.EnableFrameUI();
                 break;
         }
     }

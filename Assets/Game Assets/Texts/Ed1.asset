@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Ed1
+  m_EditorClassIdentifier: 
+  text: "Early education under Justiniano Aquino Cruz in Bi\xF1an, Laguna.\r\n\n------\n\nAt
+    the tender age of nine, Jose Rizal embarked on his formal education journey,
+    leaving the familiar comforts of his family home in Calamba for Bi\xF1an, Laguna.
+    He was placed under the tutelage of Maestro Justiniano Aquino Cruz, a renowned
+    teacher in the town. \r\n\r\n------\n\nThis period laid the groundwork for his
+    future academic pursuits, focusing on basic literacy, numeracy, and religious
+    instruction. Though young, Rizal already displayed a keen intellect and an insatiable
+    thirst for knowledge, often spending extra hours studying and engaging in intellectual
+    discussions with his teacher and classmates. \r\n\r\n------\n\nHowever, this
+    period was not without its challenges. He faced bullying from older students,
+    an experience that instilled in him a strong sense of justice and a desire to
+    defend the oppressed. He also learned valuable lessons about life beyond his
+    sheltered upbringing, observing the social dynamics and disparities within the
+    town. This early exposure to the realities of life outside his family's affluence
+    would later influence his social and political views.\r\n"

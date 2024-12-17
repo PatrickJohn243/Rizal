@@ -7,6 +7,7 @@ public class DisplayMarker : MonoBehaviour
     public LayerMask interactableMask;
     public Transform playerTransform;
     public Vector3 markerOffset;
+    public Vector3 offset;
 
     public bool isNearInteractable = false;
 
@@ -75,7 +76,7 @@ public class DisplayMarker : MonoBehaviour
         Quaternion rotation = Quaternion.LookRotation(directionToPlayer);
 
         // Apply the -90 degree offset around the Y-axis
-        rotation *= Quaternion.Euler(0f, -90f, 0f); // Rotate around the UP vector by -90f
+        rotation *= Quaternion.Euler(offset); // Rotate around the UP vector by -90f
 
         marker.transform.rotation = rotation;
     }

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Significant3
+  m_EditorClassIdentifier: 
+  text: "Significant People  \n\n------\n\n\u201CDuring Rizal's first European sojourn
+    (1882\u20131887), he formed a lifelong friendship with Ferdinand Blumentritt,
+    an Austrian ethnographer who shared ideas on Filipino culture and independence.
+    Antonio Luna, a compatriot, played a key role in shaping Rizal's nationalist
+    ideas during their time in Europe. Marcelo H. del Pilar, a fellow reformist,
+    collaborated with Rizal in promoting Filipino nationalism through La Solidaridad.\u201D\n\n\n\r\nFirst
+    European Sojourn (1882\u20131887)\n\n------\n\r\nFerdinand Blumentritt: Austrian
+    ethnographer and Rizal\u2019s lifelong friend, sharing ideas on Filipino culture
+    and independence.\r\n\r\nAntonio Luna: A compatriot who influenced Rizal\u2019s
+    nationalist ideas during their time in Europe.\r\n\r\nMarcelo H. del Pilar: A
+    co-reformer and collaborator in propagating Filipino nationalism through La Solidaridad.\r\n\n\r"

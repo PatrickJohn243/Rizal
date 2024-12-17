@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Ed5
+  m_EditorClassIdentifier: 
+  text: '1877 - 1882, University of Santo Tomas(Medicine, unfinished)
+
+
+    ------
+
+
+    After
+    finishing a year in Philosophy and Letters, Rizal decided to shift to another
+    course. Rizal''s shift to Medicine at the University of Santo Tomas (UST) was
+    a significant turning point in his life, motivated primarily by his mother''s
+    failing eyesight. While he continued his studies in Philosophy and Letters concurrently,
+    this new path opened up new avenues of learning and experience, further shaping
+    his worldview and future trajectory.
+
+
+
+    ------
+
+
+    Recognizing the limitations
+    of the medical education available in the Philippines, Rizal began to make plans
+    to study abroad. He understood that to truly excel in ophthalmology and contribute
+    meaningfully to his country, he needed to seek more advanced training in Europe.
+    This decision marked a pivotal moment in his life, setting the stage for his
+    transformative experiences in Spain and beyond.
+
+'

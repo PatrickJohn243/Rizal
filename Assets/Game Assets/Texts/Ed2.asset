@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Ed2
+  m_EditorClassIdentifier: 
+  text: "1872 - 1877, Ateneo Municipal de Manila (Bachelor of Arts, highest honors)\n\n------\n\nRizal
+    entered Ateneo in 1872. He belonged to the class composed of Spaniards, mestizos,
+    and Filipinos. However, he was considered as an inferior and was placed at the
+    bottom of the class.\r\n\r\n------\n\nBy the end of the month, he became the
+    emperor and received a prize: a religious picture.\n\r\n\r------\n\nRizal graduated
+    on March 23, 1877, attaining sobresaliente or excellent with 5 medals. He received
+    the degree of Bachelor of Arts.\r\n\r\n"

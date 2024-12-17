@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3725bf963a5d57d46ad1484dfd6a9060, type: 3}
+  m_Name: Significant2
+  m_EditorClassIdentifier: 
+  text: "Significant People  \n\n------\n\n\u201CDuring Rizal's Ateneo and UST years
+    (1872\u20131882), Father Francisco Sanchez, a Jesuit mentor at Ateneo, inspired
+    him to excel academically and in writing. His brother, Paciano Rizal, served
+    as Rizal's moral compass and provided strong support, especially in his studies.
+    Leonor Rivera, his cousin and great love, had a significant influence on his
+    writings.\u201D\n\n\n\r\nAteneo and UST Years (1872\u20131882)\n\n\n------\n\r\nFather
+    Francisco Sanchez: Jesuit mentor at Ateneo, inspired Rizal's excellence in academics
+    and writing.\n\r\nPaciano Rizal (Brother): Rizal's moral compass and supporter,
+    particularly during his studies.\n\r\nLeonor Rivera: Rizal's cousin and great
+    love, whose influence was evident in his writings.\r\n\n\r"
