@@ -6,6 +6,7 @@ public class DisplayMarker : MonoBehaviour
     public float detectionRadius = 10f;
     public LayerMask interactableMask;
     public Transform playerTransform;
+    public Vector3 markerOffset;
 
     public bool isNearInteractable = false;
 
@@ -18,7 +19,7 @@ public class DisplayMarker : MonoBehaviour
         DisableMarker();
         if (marker != null)
         {
-            marker.transform.position = new Vector3(marker.transform.position.x, marker.transform.position.y + 1.5f, marker.transform.position.z);
+            marker.transform.position = new Vector3(marker.transform.position.x + markerOffset.x, marker.transform.position.y + markerOffset.y, marker.transform.position.z + markerOffset.z);
         }
     }
 

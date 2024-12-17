@@ -5,6 +5,11 @@ using UnityEngine;
 
 public class CanvasManager : MonoBehaviour
 {
+    [Header("Canvasses")]
+    [SerializeField] protected GameObject canvas;
+
+    [Header("Fields")]
+    public List<GameObject> EnabledCanvasList;
     public List<GameObject> UICanvas;
     public List<GameObject> PuzzleCanvas;
     public GameObject currentEnabledCanvas;
@@ -21,7 +26,8 @@ public class CanvasManager : MonoBehaviour
     }
     private void Start()
     {
-        //UICanvas = new List<GameObject>();
+        UICanvas = new List<GameObject>();
+        UICanvas.Add(canvas);
         //UICanvas.Add(consumableInventory);
         //UICanvas.Add(keyItemInventory);
         //UICanvas.Add(journal);
@@ -56,6 +62,7 @@ public class CanvasManager : MonoBehaviour
     }
     private void CheckEnabledCanvas(List<GameObject> canvasList)
     {
+        EnabledCanvasList = canvasList;
         currentEnabledCanvas = null;
         foreach (GameObject canvas in canvasList)
         {
@@ -88,6 +95,10 @@ public class CanvasManager : MonoBehaviour
             SetCursorDisabled();
             OnCanvasEnabled?.Invoke(false);
         }
+    }
+    public void GetAndDisableCanvasList()
+    {
+        DisableAllCanvas(EnabledCanvasList);
     }
     public void SetCursorDisabled()
     {

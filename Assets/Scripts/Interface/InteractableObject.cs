@@ -6,7 +6,7 @@ public class InteractableObject : MonoBehaviour, IInteractable
 {
     public InteractableConfig interactableConfig;
     public DisplayMarker displayMarker;
-    bool isInteracted = false;
+    public RelicUIDisplay UIDisplay;
 
     public virtual void Interact(int itemInteractedCase)
     {
@@ -15,11 +15,11 @@ public class InteractableObject : MonoBehaviour, IInteractable
         {
             case 0:
                 Debug.Log("You interacted with letter!");
-                isInteracted = true;
+                UIDisplay.EnableUI();
                 break;
             case 1:
                 Debug.Log("You picked up an relic!");
-                isInteracted = true;
+                UIDisplay.EnableUI();
                 break;
         }
     }

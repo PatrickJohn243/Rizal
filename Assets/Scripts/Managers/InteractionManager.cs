@@ -16,11 +16,12 @@ public class InteractionManager : MonoBehaviour
 
 
     private int itemInteractedCase = 0;
-    public UnityEvent isInteracting;
-    public UnityEvent isNotInteracting;
+    //public UnityEvent isInteracting;
+    //public UnityEvent isNotInteracting;
 
     public bool isCanvasEnabled;
 
+    public UnityEvent disableCanvas;
     private void OnEnable()
     {
         CanvasManager.OnCanvasEnabled += isAnyCanvasOn;
@@ -52,7 +53,7 @@ public class InteractionManager : MonoBehaviour
 
             if (interactableObj != null && !isCanvasEnabled)
             {
-                isInteracting.Invoke();
+                //isInteracting.Invoke();
                 interactable = interactableObj.GetInteractableConfig();
                 //showInteractableUI.SetInteractionPrompt(interactable.promptImage);
                 //showInteractableUI.EnableInteractableUI();
@@ -78,7 +79,11 @@ public class InteractionManager : MonoBehaviour
         else
         {
             //showInteractableUI.DisableInteractableUI();
-            isNotInteracting.Invoke();
+            //isNotInteracting.Invoke();
+        }
+        if(Input.GetKeyDown(KeyCode.Q) && isCanvasEnabled)
+        {
+            disableCanvas?.Invoke();
         }
     }
     public void isAnyCanvasOn(bool isOn)
