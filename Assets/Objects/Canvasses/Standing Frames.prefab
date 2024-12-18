@@ -196,7 +196,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &3303966348305232190
@@ -232,7 +232,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: 3b1132bc7ce793a4da4072406c50de3e, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &7714270367714877017
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -631,7 +630,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &5852972519913324520
@@ -667,7 +666,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 0}
-  isCanvasEnabled: 0
 --- !u!65 &2500238208116845542
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -844,7 +842,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &2260367605844533167
@@ -880,7 +878,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: 5277dad30757033409f9e8632c384587, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &1540072346865704448
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1045,7 +1042,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &282995225201002954
@@ -1081,7 +1078,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 0}
-  isCanvasEnabled: 0
 --- !u!65 &9025272532768117111
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1264,7 +1260,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &513009049456190303
@@ -1300,7 +1296,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 0}
-  isCanvasEnabled: 0
 --- !u!65 &6336799379928513420
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1551,7 +1546,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &7072393107362124286
@@ -1587,7 +1582,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: 7604d9125fdab4a4e94d7bd003aa27bb, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &8035952927032458995
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1752,7 +1746,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &4665627584056053914
@@ -1788,7 +1782,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 0}
-  isCanvasEnabled: 0
 --- !u!65 &5671317437552521317
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1953,7 +1946,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &6359715298651649979
@@ -1989,7 +1982,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: 2e2b5d57c2614dc4b9df5d8c85f27164, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &7913662482141252215
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2166,7 +2158,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &8261815711872492560
@@ -2202,7 +2194,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: c7041f1cb89e46048a5991aba9c65de9, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &6399559124732687411
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2453,7 +2444,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &69286581421389185
@@ -2489,7 +2480,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 0}
-  isCanvasEnabled: 0
 --- !u!65 &5567647096027618077
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2666,7 +2656,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &3798420652305362269
@@ -2687,7 +2677,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: d1fa9eec0a7a31a428e25708f1cb4694, type: 3}
-  isCanvasEnabled: 0
 --- !u!114 &6604464425319837507
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2849,7 +2838,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 0}
-  isCanvasEnabled: 0
 --- !u!4 &6266666127860766770 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1764489349077909978, guid: 52d1fef1bb66ead48aa81d142c33a975,
@@ -3248,7 +3236,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &1267004345400042925
@@ -3284,7 +3272,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 0}
-  isCanvasEnabled: 0
 --- !u!65 &2244580069469608106
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3455,7 +3442,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &6701705862314045318
@@ -3491,7 +3478,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: b2cc1eec1fe9c6f43af32b86560a6284, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &7335775210271761935
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3914,7 +3900,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &6885323533873677106
@@ -3950,7 +3936,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: 1eaffec221cf7bd42accec59e8226bf6, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &8808195066419791576
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4115,7 +4100,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &6618673227815506439
@@ -4151,7 +4136,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: 6632be573b3685d4789f3aca1a5d84d1, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &9133778566417711619
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4402,7 +4386,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 128
   playerTransform: {fileID: 0}
-  markerOffset: {x: 0, y: 1.5, z: -0.5}
+  markerOffset: {x: 0, y: 1.5, z: 0}
   offset: {x: 90, y: 0, z: 0}
   isNearInteractable: 0
 --- !u!114 &9110368861821226483
@@ -4438,7 +4422,6 @@ MonoBehaviour:
   StandUIcanvas: {fileID: 0}
   image: {fileID: 0}
   standImage: {fileID: 21300000, guid: 7b0465d8c7f4ad3408b0cad9f51f78ea, type: 3}
-  isCanvasEnabled: 0
 --- !u!65 &1263439991868140013
 BoxCollider:
   m_ObjectHideFlags: 0

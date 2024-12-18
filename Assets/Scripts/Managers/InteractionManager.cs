@@ -60,6 +60,7 @@ public class InteractionManager : MonoBehaviour
 
                 if (Input.GetKeyDown(KeyCode.E))
                 {
+                    isCanvasEnabled = true;
                     //print("interacting");
                     Debug.Log(interactableObj); 
                     switch (interactable.interactableType)
@@ -84,6 +85,7 @@ public class InteractionManager : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Q) && isCanvasEnabled)
         {
             disableCanvas?.Invoke();
+            isCanvasEnabled = false;
         }
     }
     public void isAnyCanvasOn(bool isOn)

@@ -17,20 +17,16 @@ public class RelicUIDisplay : MonoBehaviour
     public Image image;
     public Sprite standImage;
 
-    public bool isCanvasEnabled = false;
-
     public void EnableFrameUI()
     {
         print("enabled Frame");
         FrameUIcanvas.SetActive(true);
         canvasText.text = textSO.text;
-        isCanvasEnabled = true;
     }
     public void EnableStandUI()
     {
         print("enabled Stand");
         StandUIcanvas.SetActive(true);
         image.sprite = standImage;
-        isCanvasEnabled = true;
     }
 }
