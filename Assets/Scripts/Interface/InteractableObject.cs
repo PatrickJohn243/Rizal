@@ -19,7 +19,7 @@ public class InteractableObject : MonoBehaviour, IInteractable
                 break;
             case 1:
                 Debug.Log("You picked up an relic!");
-                UIDisplay.EnableFrameUI();
+                UIDisplay.EnableStandUI();
                 break;
         }
     }

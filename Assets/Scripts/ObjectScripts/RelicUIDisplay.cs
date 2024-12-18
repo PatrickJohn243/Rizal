@@ -7,23 +7,30 @@ using TMPro;
 
 public class RelicUIDisplay : MonoBehaviour
 {
-    public GameObject StoryUIcanvas;
-    public bool isCanvasEnabled = false;
+    [Header("Frames")]
+    public GameObject FrameUIcanvas;
     public TextMeshProUGUI canvasText;
     public textSO textSO;
 
-    
+    [Header("Stands")]
+    public GameObject StandUIcanvas;
+    public Image image;
+    public Sprite standImage;
+
+    public bool isCanvasEnabled = false;
+
     public void EnableFrameUI()
     {
-        print("enabled");
-        StoryUIcanvas.SetActive(true);
+        print("enabled Frame");
+        FrameUIcanvas.SetActive(true);
         canvasText.text = textSO.text;
         isCanvasEnabled = true;
     }
     public void EnableStandUI()
     {
-        print("enabled");
-        StoryUIcanvas.SetActive(true);
+        print("enabled Stand");
+        StandUIcanvas.SetActive(true);
+        image.sprite = standImage;
         isCanvasEnabled = true;
     }
 }

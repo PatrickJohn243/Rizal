@@ -131,10 +131,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: eca66f39bbc087a4891ecd8c69a14188, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &8458803358180491843
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -293,10 +296,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: 383759287ada4ac4fad41b2ca99ac31a, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &1220331535722534850
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -455,10 +461,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: afd2e29e3bc3ae841a8c29e922c60b80, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &3278315598832680854
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -617,10 +626,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: d37d150ae22174645b09423caba95e01, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &6223219465580512984
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -779,10 +791,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: cfa0b6dcc7537284bb5b0481ba2a172d, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &4652937347263715995
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -941,10 +956,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: f2b3c496da695b34187d832c7b5d9741, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &1064033955087579644
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1103,10 +1121,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: 95b5e050ae3e13b45aebfde05a8a1807, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &3938794971656035068
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1265,10 +1286,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: e9ecd9d5e0392794a9dc046f6dfa1d59, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &1781303666533255884
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1427,10 +1451,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: 6b804a4c95c2dac459727f0f1fc79ba9, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &7959868505738680654
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1589,10 +1616,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: fd76e8d6b804c4349b4b4f630dc9b78f, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &2341575744110657085
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1751,10 +1781,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: 7841490eab5e5e2438bf8f0f66557fdd, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &1404191263320329859
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1913,10 +1946,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: 6c21df3ed2ddebf45bbb60fc83553475, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &8777928155870487075
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2075,10 +2111,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: 748815f85d4303c42909cb3596981a43, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &3091808028828236065
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2237,10 +2276,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: 5466e1f786785a548b71a516e1d2b05d, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &1398548395668417623
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2399,10 +2441,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2a5bf083f491f17468511b40ee92e84c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  StoryUIcanvas: {fileID: 0}
-  isCanvasEnabled: 0
+  FrameUIcanvas: {fileID: 0}
   canvasText: {fileID: 0}
   textSO: {fileID: 11400000, guid: 03e8dee9f778cef4bbb708d38815e415, type: 2}
+  StandUIcanvas: {fileID: 0}
+  image: {fileID: 0}
+  standImage: {fileID: 0}
+  isCanvasEnabled: 0
 --- !u!212 &7132877744857579394
 SpriteRenderer:
   m_ObjectHideFlags: 0
